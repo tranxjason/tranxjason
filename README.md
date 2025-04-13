@@ -6,7 +6,7 @@
 
 <h2>📄 Certifications :</h2>
 
- - [Comptia Security+ (SY0-701)](https://github.com/tranxjason)
+ - [Comptia Security+ (SY0-701)](https://github.com/tranxjason/Azure/blob/1976c806d88f40bc1c4318a2a5346353cfb4e6ad/CompTIA%20Security%2B%20ce%20certificate.pdf)
  - [Google Cybersecurity Professional](https://github.com/tranxjason)
  - [ICS2 Certified In Cybersecurity (CC)](https://github.com/tranxjason)
 
