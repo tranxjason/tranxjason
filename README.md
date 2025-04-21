@@ -3,11 +3,11 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
   - __Microsoft Azure (Active Directory)__
-    - [Inspecting Network Traffic in Azure](https://github.com/tranxjason/)
-    - [Installing Active Directory in Azure](https://github.com/tranxjason/)
-    - [Configuring Active Directory in Azure](https://github.com/tranxjason/)
-    - [Understanding DNS in Azure](https://github.com/tranxjason/)
-    - [Understanding File Permissions in Azure](https://github.com/tranxjason/)
+    - [Inspecting Network Protocols & Network Security Groups (NSGs)](https://github.com/tranxjason/)
+    - [Configuring Active Directory within Azure VMs](https://github.com/tranxjason/)
+    - [Understanding DNS](https://github.com/tranxjason/)
+    - [Understanding File Permissions](https://github.com/tranxjason/)
+    - [Active Directpry: Practical Scenario Simulation](https://github.com/tranxjason/)
    
   - __osTicket (Help Desk Ticketing System)__
     - [Prerequisites and Installation](https://github.com/tranxjason/)
