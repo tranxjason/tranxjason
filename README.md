@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
   - __Microsoft Azure (Active Directory)__
-    - [Inspecting Network Protocols & Network Security Groups (NSGs)](https://github.com/tranxjason/)
+    - [Inspecting Network Protocols & Network Security Groups (NSGs)](https://github.com/tranxjason/azure-network-protocols/blob/75df9a013a10e1e937a4e55ddcf12bb4a4bebe24/README.md)
     - [Configuring Active Directory within Azure VMs](https://github.com/tranxjason/)
     - [Understanding DNS](https://github.com/tranxjason/)
     - [Understanding File Permissions](https://github.com/tranxjason/)
