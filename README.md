@@ -2,6 +2,20 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+  - __Microsoft Azure (Active Directory)__
+    - [Inspecting Network Traffic in Azure](https://github.com/tranxjason/)
+    - [Installing Active Directory in Azure](https://github.com/tranxjason/)
+    - [Configuring Active Directory in Azure](https://github.com/tranxjason/)
+    - [Understanding DNS in Azure](https://github.com/tranxjason/)
+    - [Understanding File Permissions in Azure](https://github.com/tranxjason/)
+   
+  - __osTicket (Help Desk Ticketing System)__
+    - [Prerequisites and Installation](https://github.com/tranxjason/)
+    - [Post-Installation Configuration](https://github.com/tranxjason/)
+    - [Resolving Tickets in a Ticketing System](https://github.com/tranxjason/)     
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
   - [Azure Honeynet: SOC Simulation Real-World Cyber Attacks](https://github.com/tranxjason/Azure-Honeynet-Lab)
 
 <h2>📄 Certifications :</h2>
