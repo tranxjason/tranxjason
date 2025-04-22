@@ -17,7 +17,7 @@
 
 <h2>📄 Certifications :</h2>
 
- - [Comptia Security+ ce](https://github.com/tranxjason/Azure/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
+ - [CompTia Security+](https://github.com/tranxjason/Azure/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
  - [Google Cybersecurity Professional](https://github.com/tranxjason/Azure/blob/1976c806d88f40bc1c4318a2a5346353cfb4e6ad/Google%20Cybersecurity%20Certificate.pdf)
  - [ICS2 Certified In Cybersecurity (CC)](https://github.com/tranxjason/Azure/blob/8ad0c26eeba7be0b86243927e5f2410dd45127d9/ISC2%20Certified%20In%20Cybersecurity%20(CC).pdf)
  - [Try Hack Me SOC Level 1](https://github.com/tranxjason/Azure/blob/27a8087738e823e9f670c71d8c70c682549a8989/Try%20Hack%20Me%20SOC%20Level%201%20Certification.pdf)
