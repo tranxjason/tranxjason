@@ -7,7 +7,7 @@
     - [Configuring Active Directory within Azure VMs](https://github.com/tranxjason/active-directory-configurations/blob/main/README.md)
     - [Understanding DNS](https://github.com/tranxjason/)
     - [Understanding File Permissions](https://github.com/tranxjason/)
-    - [Active Directpry: Practical Scenario Simulation](https://github.com/tranxjason/)
+    - [Active Directory: Practical Scenario Simulation](https://github.com/tranxjason/)
    
   - __osTicket (Help Desk Ticketing System)__
     - [Prerequisites and Installation](https://github.com/tranxjason/)
