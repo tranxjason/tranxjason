@@ -5,8 +5,6 @@
   - __Microsoft Azure (Active Directory)__
     - [Inspecting Network Protocols & Network Security Groups (NSGs)](https://github.com/tranxjason/azure-network-protocols/blob/75df9a013a10e1e937a4e55ddcf12bb4a4bebe24/README.md)
     - [Configuring Active Directory within Azure VMs](https://github.com/tranxjason/active-directory-configurations/blob/main/README.md)
-    - [Understanding DNS](https://github.com/tranxjason/)
-    - [Understanding File Permissions](https://github.com/tranxjason/)
     - [Active Directory: Practical Scenario Simulation](https://github.com/tranxjason/)
    
   - __osTicket (Help Desk Ticketing System)__
