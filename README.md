@@ -8,9 +8,8 @@
     - [Active Directory: Practical Scenario Simulation](https://github.com/tranxjason/active-directory-scenario/blob/main/README.md)
    
   - __osTicket (Help Desk Ticketing System)__
-    - [Prerequisites and Installation](https://github.com/tranxjason/osTicket-install/blob/main/README.md)
-    - [Post-Installation Configuration](https://github.com/tranxjason/)
-    - [Resolving Tickets in a Ticketing System](https://github.com/tranxjason/)     
+    - [Prerequisites & Installation](https://github.com/tranxjason/osTicket-install/blob/main/README.md)
+    - [Ticket Resolution & Troubleshooting](https://github.com/tranxjason/osTicket-scenario/blob/main/README.md)     
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
